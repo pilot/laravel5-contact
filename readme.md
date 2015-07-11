@@ -8,6 +8,21 @@
 - uploaded photo has to be sent as attachment to admin
 - use Blade templates, native Laravel helpers, etc.
 
+**Demo app on Heroku.com**
+
+- http://aqueous-oasis-7550.herokuapp.com
+- use below credentials to get access to the mail service with the contact emails:
+
+```yml
+  #POP3
+  Host:	mailtrap.io
+  Port:	110 or 995
+  Username:	3424131c759272da8
+  Password:	00d3303304eb2a
+  Auth:	USER/PASS, PLAIN, LOGIN, APOP and CRAM-MD5
+  TLS:	Optional
+```
+
 **Screenshots**
 
 - contact form
