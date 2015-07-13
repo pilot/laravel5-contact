@@ -1,8 +1,8 @@
-## Manual how to build symple contact form on top of Laravel 5 PHP Framework
+## Manual how to build simple contact form on top of Laravel 5 PHP Framework
 
 **Include**
 
-- twitter bootstrup styles
+- twitter bootstrap styles
 - contact form with fields: name, surname, email, photo, message
 - prepared for multi-language websites (english & french)
 - uploaded photo has to be sent as attachment to admin
