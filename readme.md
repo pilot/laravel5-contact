@@ -1,4 +1,4 @@
-## Manual how to build simple contact form on top of Laravel 5 PHP Framework
+## How to build simple contact form on top of Laravel 5 PHP Framework
 
 **Include**
 
